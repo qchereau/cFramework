@@ -1,0 +1,1 @@
+The objective of this repository is just to be a memento for myself of the c code I have already use
